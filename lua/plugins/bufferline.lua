@@ -15,7 +15,7 @@ return {
 				close_icon = "✗",
 				path_components = 1, -- Show only the file name without the directory
 				modified_icon = "●",
-				left_trunc_marker = "",
+				left_trunc_marker = "", -- install one patched font (https://www.nerdfonts.com/font-downloads e.g., Noto Nerd)
 				right_trunc_marker = "",
 				max_name_length = 30,
 				max_prefix_length = 30, -- prefix used when a buffer is de-duplicated
